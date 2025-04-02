@@ -1,11 +1,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=DearRude.DearRude)
 ### Dorood 👋
 
-Just another **Computer Science** student.
-
-Interested in GIS Data Analysis and Data Engineering in general.
-Here's by [blog](https://blog.nejati.net) (in Persian mostly), which you can follow by its [RSS](https://blog.nejati.net/feed) feed.
-[Email](mailto:ebrahim@nejati.net) me for my resume if interested.
+Just another Software engineer.
+Here's my [website](https://nejati.net). [Email](mailto:ebrahim@nejati.net) me for my resume if interested.
 I use NixOS ~and Arch btw~.
 
 **I don't use Github** mainly for hosting my repos. I use it as a just-to-have place for some collaborative projects and mostly for opening issue and stuff. You can find me on [self-hosted gitea](https://git.markpash.net/dearrude/), [SourceHut](https://sr.ht/~dearrude/) and [Gitlab](https://gitlab.com/dearrude).
